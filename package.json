@@ -1,0 +1,44 @@
+{
+  "name": "bundesk-beta",
+  "version": "1.0.0",
+  "description": "Beta version of Bundesk",
+  "keywords": [
+    "reusable",
+    "react",
+    "auth",
+    "layouts"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "history": "4.10.1",
+    "jquery": "^3.4.1",
+    "prop-types": "15.7.2",
+    "react": "16.8.6",
+    "react-coverflow": "^0.2.20",
+    "react-dom": "16.8.6",
+    "react-helmet": "^5.2.1",
+    "react-leaf-carousel": "^1.2.2",
+    "react-router-dom": "5.0.1",
+    "react-scripts": "3.0.1",
+    "react-slick": "^0.25.2",
+    "react-spring-3d-carousel": "^1.1.4",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "4.4.0",
+    "typeface-josefin-sans": "0.0.75"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
